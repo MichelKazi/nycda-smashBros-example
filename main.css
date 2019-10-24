@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+}
+
+div h1 {
+  display: inline;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#fightersText {
+  font-size: 5em;
+}
